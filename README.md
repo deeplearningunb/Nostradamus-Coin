@@ -38,3 +38,6 @@ Uma rede neural recorrente (RNN) é uma classe de redes neurais que inclui conex
 A LSTM é uma arquitetura de rede neural recorrente (RNN) que “lembra” valores em intervalos arbitrários. A LSTM é bem adequada para classificar, processar e prever séries temporais com intervalos de tempo de duração desconhecida.
 
 ![LSTM](https://i0.wp.com/deeplearningbook.com.br/wp-content/uploads/2019/08/lstmcell.png?w=542)
+
+-------
+#### Nosso código de conduta pode ser acessado clicando [aqui](https://github.com/deeplearningunb/Nostradamus-Coin/blob/master/CODE_OF_CONDUCT.md)
